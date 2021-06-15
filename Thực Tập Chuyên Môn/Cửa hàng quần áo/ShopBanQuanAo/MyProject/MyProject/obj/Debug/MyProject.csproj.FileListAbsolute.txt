@@ -1,0 +1,202 @@
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.xml
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\LEGION\Desktop\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.pdb
+G:\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll.config
+G:\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.pdb
+G:\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+G:\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+G:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+G:\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+G:\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.dll
+G:\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.pdb
+F:\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll.config
+F:\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.pdb
+F:\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+F:\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+F:\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+F:\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+F:\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.dll
+F:\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Admin\Desktop\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\dell\Downloads\MarkLeo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\PagedList.Mvc.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\dell\Downloads\Cửa hàng quần áo\ShopBanQuanAo\MyProject\MyProject\obj\Debug\MyProject.pdb
